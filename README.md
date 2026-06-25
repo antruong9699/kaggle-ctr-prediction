@@ -17,6 +17,9 @@ Predicted Click-Through Rate (CTR) across 5,000 samples as part of a Kaggle comp
 ## Project Structure
 - `ctr_prediction.R` — Main modeling script including data cleaning, feature engineering, model training, and evaluation
 
+## Data Source
+Dataset from the Kaggle CTR Prediction Competition: https://www.kaggle.com/competitions/predicting-clicks
+
 ## Background
 This project was completed as part of the MS in Applied Analytics program at Columbia University. The goal was to build a model that accurately predicts whether a user will click on a digital advertisement given a set of user and ad features.
 
