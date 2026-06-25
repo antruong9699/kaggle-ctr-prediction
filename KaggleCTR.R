@@ -1,3 +1,5 @@
+# Data source: Kaggle CTR Prediction Competition — https://www.kaggle.com/competitions/predicting-clicks
+
 # Load necessary libraries
 library(dplyr)
 library(xgboost)
